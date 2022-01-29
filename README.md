@@ -9,3 +9,4 @@ to use:
 TigerNet limits the number of pageviews per NetID per day, so this limits the search by class
 - if the search runs out of pageviews, it returns the CSV with the last row 'LIMITED' 
   
+try searching the class of 1890...
