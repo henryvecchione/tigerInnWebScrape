@@ -1,6 +1,9 @@
 # Tiger Inn Alumni Web Scraper
 
 to use:
+- download the correct chromedriver for your computer 
+  - https://chromedriver.chromium.org/downloads
+  - put the `chromedriver.exe` file in the same folder as `webScraper.py`
 - run `python3 webScrape.py` from terminal
 - enter the class year of which you wish to collect the information
 - returns a .csv of found information: Name (first, last), class, email, and major
