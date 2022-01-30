@@ -72,7 +72,7 @@ def main():
   print(f'Searching the class of {yr}\n')
 
   # attempt to open site
-  web = webdriver.Chrome("/Users/henryvecchione/Desktop/Home/tiAlum/chromedriver.exe")
+  web = webdriver.Chrome("./chromedriver.exe")
   web.get('https://tigernet.princeton.edu/s/1760/02-tigernet/20/interior.aspx?sid=1760&gid=2&pgid=6#/Search/Advanced')
 
   wait = ui.WebDriverWait(web, 10)
