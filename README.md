@@ -6,6 +6,7 @@ to use:
   - put the `chromedriver.exe` file in the same folder as `webScraper.py`
 - run `python3 webScrape.py` from terminal
 - enter the class year of which you wish to collect the information
+- Chrome will open. Log in to your Princeton NetId
 - returns a .csv of found information: Name (first, last), class, email, and major
   - 'nd' if no data found
   
