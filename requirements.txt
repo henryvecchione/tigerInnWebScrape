@@ -1,2 +1,1 @@
-selenium
-datetime
+selenium==4.1.0
