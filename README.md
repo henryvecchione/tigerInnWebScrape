@@ -1,7 +1,7 @@
 # Tiger Inn Alumni Web Scraper
 
 to use:
-- download the correct chromedriver for your computer 
+- download the correct chromedriver for your computer (the one in this repo is MacOS 64 bit)
   - https://chromedriver.chromium.org/downloads
   - put the `chromedriver.exe` file in the same folder as `webScraper.py`
 - run `python3 webScrape.py` from terminal
