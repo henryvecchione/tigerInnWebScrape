@@ -1,5 +1,11 @@
 # Tiger Inn Alumni Web Scraper
 
+requirements:
+- python 3
+- selenium package
+
+to install: run `pip install -r requirements.txt`
+
 to use:
 - download the correct chromedriver for your computer and version of Chrome (the one in this repo is MacOS 64 bit)
   - https://chromedriver.chromium.org/downloads
