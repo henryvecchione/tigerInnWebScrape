@@ -23,11 +23,6 @@ The Trees and Trolls will raise their mugs and all together shout,
 We're members of the Tiger Inn, the finest in the land,
 And when I see my brother, I'll offer him my hand.
 (Chorus)
-So get out early, beat the rush, tonight we're gonna get wet
-You Rutgers sluts and Cap pig hos, you ain't seen nothing yet.
-Cause we've got balls big hairy balls, and dicks as big as logs.
-The trees and trolls will lower their sights, tonight we're fucking hogs.
-(Chorus)
 Though Ivy sucks and Cottage blows, the night will still be good.
 We'll all come here and pound our beers the way we know we should.
 Cause Tiger Inn and all her men can never fucking lose
