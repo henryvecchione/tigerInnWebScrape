@@ -70,7 +70,7 @@ def main():
   try:
     start_page = int(start_page)
   except:
-    start_page = None
+    start_page = 1
   
 
   # attempt to open site
@@ -124,7 +124,7 @@ def main():
     url = web.current_url
 
     # (4) wait and get the number of results
-    pageNo = start_page if start_page else 1
+    pageNo = start_page
     numPages = 2
     ctr = 1
     while pageNo <= int(numPages):
@@ -219,7 +219,7 @@ def main():
       pageNo += 1
     
 
-    filename = f"tiAlums_{yr}.csv"
+    filename = f"tiAlums_{yr}_page{start_page}.csv"
     fields = ['name_first', 'name_last', 'year', 'email', 'major']
     csvWrite(filename, fields, data)
 
