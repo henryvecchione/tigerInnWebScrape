@@ -65,6 +65,13 @@ def main():
       return
   
   print(f'Searching the class of {yr}\n')
+  
+  start_page = input('Start from a page?\n[enter an integer or press enter to start at 1] >>> ')
+  try:
+    start_page = int(start_page)
+  except:
+    start_page = None
+  
 
   # attempt to open site
   web = webdriver.Chrome("./chromedriver.exe")
@@ -117,7 +124,7 @@ def main():
     url = web.current_url
 
     # (4) wait and get the number of results
-    pageNo = 1
+    pageNo = start_page if start_page else 1
     numPages = 2
     ctr = 1
     while pageNo <= int(numPages):
